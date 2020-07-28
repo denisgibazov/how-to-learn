@@ -2,11 +2,10 @@
 @import url(../resources/__logo-zone/resources__logo-zone.css);
 @import url(../section-title/section-title.css);
 @import url(../section-subtitle/section-subtitle.css);
-
-.resources{
-  padding-top: 100px;
-  display: flex;
-  align-items: center;
-  flex-direction: column;
-  justify-content: center;
-  }
+.resources {
+    padding-top: 100px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
